@@ -1,5 +1,5 @@
 # Multicast-Communication-C-Linux
-Multicast Communication in C language on Linux
+Multicast Communication Sample in C language on Linux
 
 Source: https://www.tenouk.com/Module41c.html
 
