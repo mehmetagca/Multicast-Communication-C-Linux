@@ -1,0 +1,8 @@
+#ignore all
+*
+
+#unignore with (.)extension name
+!*.*
+!Makefile
+
+*.o
